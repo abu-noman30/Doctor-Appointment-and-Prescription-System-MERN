@@ -1,7 +1,7 @@
 
 # Doctor's Appointment & Prescription System (MERN Stack)
 
-It is a System, by which Patients can consult with a doctor through online without any hassle. Patients can search for a Doctor and apply for his/her appointment. This application further shows the history of a particular patient so that the Doctor can prescribe on the basis of the history of the patient. The main objective of this application is to connect doctors and patients quickly and easily from any location over the internet. Patients can easily use this application by registering themselves, and the doctor can prescribe medicines to the patient based on their medical condition. It also saves a lot of time for both patient and doctor .
+It is a System, by which Patients can consult with a doctor through online without any hassle. Patients can search for a Doctor and apply for his/her appointment. This application further shows the history of a particular patient so that the Doctor can prescribe on the basis of the history of the patient. The main objective of this application is to connect doctors and patients quickly and easily from any location over the internet. Patients can easily use this application by registering themselves, and the doctor can prescribe medicines to the patient based on their medical condition.
 
 ## Tech Stack
 
